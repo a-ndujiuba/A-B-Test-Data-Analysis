@@ -169,7 +169,7 @@ def cta_count(file, v):
 
 
 # def venEnq_list(file, data):
-#     # for the dataset given, find the venSearch value and put it in the column
+#     # for the dataset given, find the venEnq value and put it in the column
 #     vslist = []
 #     var_index = file.testVariant[file.testVariant == data].index.tolist()
 #     for x in var_index:
